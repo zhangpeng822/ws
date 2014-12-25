@@ -1,1 +1,2 @@
 add a new file
+now I add new line String for file1.txt
