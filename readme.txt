@@ -7,3 +7,5 @@ wo you zeng jia le nei rong.
 hello world
 jin tian tian qi hao qing lang .
 chu chu wen ti xiang
+18:10
+xian zai shi beijing shijian 18:10
