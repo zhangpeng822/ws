@@ -3,4 +3,3 @@ now I add new line String for file1.txt
 now I add s line wenzi
 hello
 welcome to beijing
-I am here
