@@ -1,6 +1,6 @@
 add a new file
-master 1
-now I add new line String for file1.txt
+i am here too hahaha
+master 1now I add new line String for file1.txt
 now I add s line wenzi
 hello
-welcome to beijing
+test 2
